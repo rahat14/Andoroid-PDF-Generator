@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Outdoor Bd</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="start">GOT IT</string>
+    <string name="titleText">This is Title</string>
+    <string name="descriptionText">This is the description area</string>
+    <string name="exit_msg">Are you sure you want to quit?</string>
+    <string name="share_msg">অ্যাপটি ডাউনলোড করুন প্লে স্টোর থেকে।
+        \nডাউনলোড লিংকঃ\nhttps://play.google.com/store/apps/details?id=</string>
+    <string name="aboutTitle">About us</string>
+    <string name="about">About</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacyTitle">Privacy Policy</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='outdoor_bd'
+include ':app'
