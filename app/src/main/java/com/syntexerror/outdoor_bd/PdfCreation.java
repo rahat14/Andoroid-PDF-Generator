@@ -42,7 +42,6 @@ public class PdfCreation extends AppCompatActivity {
     ImageView imgdownload;
    // ConnectionClass connectionClass;
     ArrayList<test_model> MyList1 = new ArrayList<>();
-    test_model giftitemPOJO;
     Context context;
     test_model name;
     test_model price;
